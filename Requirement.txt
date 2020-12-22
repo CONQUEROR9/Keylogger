@@ -1,0 +1,5 @@
+#Requirement to use Keylogger.py
+#Go to your code editor or terminal and enter the following into it.
+#If you see an error like pip not found then google it :)
+
+pip install pynput
